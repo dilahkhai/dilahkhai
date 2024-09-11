@@ -1,8 +1,5 @@
 <h1 align="lefy">Hi 👋, I'm Syahida Nur Hilma Adilah</h1>
 <h3 align="left">A Software Engineer student who has enthusiasm with Mobile Development</h3>
-
-- 🌱 I’m currently learning **Everything about Flutter and Web Development**
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddilaaah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syahidaadilah) 
 

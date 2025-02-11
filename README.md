@@ -1,8 +1,7 @@
 <h1 align="lefy">Hi 👋, I'm Syahida Nur Hilma Adilah</h1>
 <h3 align="left">A Software Engineer student who has enthusiasm with Mobile & Web Development</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dilahkhai&theme=dark)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dilahkhai&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddilaaah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syahidaadilah) 
 
